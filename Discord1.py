@@ -30,4 +30,4 @@ async def good(ctx):
 async def bye(ctx):
     await ctx.send("Papa" )
 
-bot.run("MTE5OTQxMzc3NDA4ODY3MTM1NA.GqYOUd.dnDqs5_SvPIvy8Nn_PxgkMs-NGY2d6UMJxyMFk")
+bot.run("Token")
